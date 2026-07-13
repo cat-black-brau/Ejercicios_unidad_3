@@ -45,7 +45,7 @@ else:
 
 def calcular_doble(numero):
     doble = numero * 2
-    print(doble)
+    return doble
 
 resultado = calcular_doble(10)
 print(resultado)
